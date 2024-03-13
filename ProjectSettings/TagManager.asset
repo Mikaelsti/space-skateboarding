@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ramp
+  - EndPosition
+  - Floor
+  - Event
+  - Coin
+  - Air_Obstacle
+  - Flight_Speedup
+  - Ground_Obstacle
+  - Air_Obstacle_Overlap_Check
+  - Flight_Speedup_Overlap_Check
+  - Coin_Overlap_Check
+  - shop_item_id_7
+  - shop_item_id_8
+  - shop_item_id_9
+  - shop_item_id_10
+  - shop_item_id_11
+  - shop_item_id_12
+  - shop_item_id_13
+  - shop_item_id_14
+  - shop_item_id_15
+  - shop_item_id_1
+  - shop_item_id_2
+  - shop_item_id_3
+  - shop_item_id_4
+  - shop_item_id_5
+  - shop_item_id_6
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
